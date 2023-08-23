@@ -1,0 +1,8 @@
+.form-input {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 80%;
+  border: 1px solid $color-base-dimgray;
+  padding: 10px;
+}

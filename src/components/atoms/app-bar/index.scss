@@ -1,0 +1,14 @@
+.custom-drawer-paper {
+    background-color: black !important;
+    margin-top: 50px;
+}
+
+.custom-menu-item {
+    &:hover {
+        background-color: lightblue;
+    }
+
+    &:active {
+        background-color: darkblue;
+    }
+}
